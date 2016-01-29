@@ -1,4 +1,4 @@
-module.exports = class NoLongMethods
+module.exports = class NoLongFunctions
 
   rule:
     name: 'no_long_functions'
